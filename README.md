@@ -1,4 +1,4 @@
 # FlutterQuizApp
 
-A Random quiz App with interesting questions.\n
+A Random quiz App with interesting questions.
 Have Fun!
